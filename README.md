@@ -91,4 +91,4 @@ lauren.hookham@ouh.nhs.uk
 ## Project Links (Optional)
 
 - GitHub: [https://github.com/lafhlafh/rayyan-decision-resolution](https://github.com/lafhlafh/rayyan-decision-resolution)
-- OSF Project: [https://osf.io/ae7v4/] (https://osf.io/ae7v4/)
+- OSF Project: [https://osf.io/ae7v4/] 
